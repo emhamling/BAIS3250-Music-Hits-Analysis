@@ -14,7 +14,7 @@ This folder contains the datasets used in our analysis of musical features and t
   → Cleaned version of the merged dataset with standardized column names and de-duplicated entries.
 
 - **Cleaned_Billboard_Spotify_Final.csv**
-  → Final cleaned and formatted dataset used for exploratory analysis and modeling. Includes average values and combined identifiers.
+   → Final cleaned and formatted dataset used for exploratory analysis and modeling. Includes average values and combined identifiers.
 
 ### Notes:
 - Song titles and artist names were standardized (lowercased, stripped punctuation) before merging.
