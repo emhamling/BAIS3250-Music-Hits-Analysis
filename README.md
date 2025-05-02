@@ -1,5 +1,8 @@
 # Billboard & Spotify Top Hits Analysis 🎶
 
+## Emily Hamling, Eleanor Scott, Maddie Blair
+---
+
 ## Overview
 
 This project explores the audio characteristics that make a song more likely to chart in the Top 10 of the Billboard Hot 100. We combine web-scraped Billboard data and a Spotify audio features dataset from Kaggle to conduct exploratory data analysis, hypothesis testing, and simple machine learning.
