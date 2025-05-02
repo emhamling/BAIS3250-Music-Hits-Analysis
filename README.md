@@ -10,9 +10,9 @@ This project explores the audio characteristics that make a song more likely to 
 
 | Folder       | Contents                                                            |
 |--------------|---------------------------------------------------------------------|
-| `/analysis`  | Contains Jupyter Notebooks for EDA and modeling                     |
-| `/data`      | Raw and cleaned datasets (Spotify + Billboard)                      |
-| `/docs`      | Project documentation including data dictionary and sources         |
+| **/analysis**  | Contains Jupyter Notebooks for EDA and modeling                     |
+| **/data**     | Raw and cleaned datasets (Spotify + Billboard)                      |
+| **/docs**      | Project documentation including data dictionary and sources         |
 
 ---
 ## Research Questions
