@@ -4,7 +4,7 @@ This folder contains Jupyter Notebooks used to analyze the Spotify and Billboard
 
 ### Notebooks
 
-- ProjectProposal.ipynb – Initial data wrangling, EDA, visualizations, and machine learning
+- ProjectProposal.ipynb – Finalized analysis document with code.
 - BAIS3250 Project Check In.pptx – Mid-project progress summary
 
 Key steps covered:
