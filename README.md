@@ -14,10 +14,10 @@ This project explores the audio characteristics that make a song more likely to 
 
 | Folder | Contents |
 |--------|----------|
-| [`/analysis`](./analysis) | All Jupyter notebooks used in scraping, cleaning, and modeling |
-| [`/data`](./data) | Raw and cleaned datasets |
-| [`/final-report`](./final-report) | Final written report and exported visualizations |
-| [`/docs`](./docs) | Proposal, slides, and supporting documents |
+| [/analysis](./analysis) | All Jupyter notebooks used in scraping, cleaning, and modeling |
+| [/data](./data) | Raw and cleaned datasets |
+| [/final-report](./final-report) | Final written report and exported visualizations |
+| [/docs](./docs) | Proposal, slides, and supporting documents |
 
 ---
 ## Research Questions
