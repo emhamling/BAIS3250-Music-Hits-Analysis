@@ -5,7 +5,8 @@
 
 ## Overview
 
-This project explores the audio characteristics that make a song more likely to chart in the Top 10 of the Billboard Hot 100. We combine web-scraped Billboard data and a Spotify audio features dataset from Kaggle to conduct exploratory data analysis, hypothesis testing, and simple machine learning.
+This project explores the audio characteristics that make a song more likely to chart in the Top 10 of the Billboard Hot 100. We combine web-scraped Billboard data and a Spotify audio features dataset from Kaggle to conduct exploratory data analysis, hypothesis testing, and simple machine learning. We combined scraping, data wrangling, descriptive analysis, hypothesis testing, and machine learning to explore trends and build predictive models.
+
 
 ---
 
@@ -20,9 +21,9 @@ This project explores the audio characteristics that make a song more likely to 
 ---
 ## Research Questions
 
-1. What musical features are most common in Billboard Top 10 songs?
-2. Do Top 10 songs differ significantly in audio features vs. lower-ranked songs?
-3. Do “happy” (high valence) songs chart higher than sad/aggressive ones?
+1. **What audio features are most common in Billboard Top 10 hits?**
+2. **Do Spotify audio features correlate with high chart rankings?**
+3. **Can we predict a song’s Spotify daily rank using audio features?**
 
 ---
 
