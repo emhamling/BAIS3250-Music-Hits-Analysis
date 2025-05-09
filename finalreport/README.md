@@ -6,7 +6,7 @@ This folder contains our completed report with visuals and supporting charts.
 
 ## Report
 
-- WranglingFinalReport.docx – Final write-up with introduction, methodology, analysis, and findings.
+- WranglingFinalReport.pdf – Final write-up with introduction, methodology, analysis, and findings.
 
 ---
 ## Key Findings
