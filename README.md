@@ -29,7 +29,7 @@ This project explores the audio characteristics that make a song more likely to 
 ---
 ## Final Report
 
-[WranglingFinalReport.docx](./final-report/WranglingFinalReport.docx)  
+[WranglingFinalReport.docx](./finalreport/WranglingFinalReport.docx)  
 Includes all visualizations, analysis, model results, and interpretations.
 
 Figures used in the report can be found in [/final-report](./final-report)  
