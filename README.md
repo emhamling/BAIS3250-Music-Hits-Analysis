@@ -27,13 +27,13 @@ This project explores the audio characteristics that make a song more likely to 
 3. **Can we predict a song’s Spotify daily rank using audio features?**
 
 ---
-## 📄 Final Report
+## Final Report
 
-📎 [`WranglingFinalReport.docx`](./final-report/WranglingFinalReport.docx)  
+[WranglingFinalReport.docx](./final-report/WranglingFinalReport.docx)  
 Includes all visualizations, analysis, model results, and interpretations.
 
-🖼 Figures used in the report can be found in [`/final-report`](./final-report)  
-🗂 Background documentation (e.g., check-in slides) is stored in [`/docs`](./docs)
+Figures used in the report can be found in [/final-report](./final-report)  
+Background documentation (e.g., check-in slides) is stored in [/docs](./docs)
 
 ---
 
