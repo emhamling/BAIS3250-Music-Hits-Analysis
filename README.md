@@ -12,11 +12,12 @@ This project explores the audio characteristics that make a song more likely to 
 
 ## Folder Structure
 
-| Folder       | Contents                                                            |
-|--------------|---------------------------------------------------------------------|
-| **/analysis**  | Contains Jupyter Notebooks for EDA and modeling                     |
-| **/data**     | Raw and cleaned datasets (Spotify + Billboard)                      |
-| **/docs**      | Project documentation including data dictionary and sources         |
+| Folder | Contents |
+|--------|----------|
+| [`/analysis`](./analysis) | All Jupyter notebooks used in scraping, cleaning, and modeling |
+| [`/data`](./data) | Raw and cleaned datasets |
+| [`/final-report`](./final-report) | Final written report and exported visualizations |
+| [`/docs`](./docs) | Proposal, slides, and supporting documents |
 
 ---
 ## Research Questions
@@ -24,6 +25,15 @@ This project explores the audio characteristics that make a song more likely to 
 1. **What audio features are most common in Billboard Top 10 hits?**
 2. **Do Spotify audio features correlate with high chart rankings?**
 3. **Can we predict a song’s Spotify daily rank using audio features?**
+
+---
+## 📄 Final Report
+
+📎 [`WranglingFinalReport.docx`](./final-report/WranglingFinalReport.docx)  
+Includes all visualizations, analysis, model results, and interpretations.
+
+🖼 Figures used in the report can be found in [`/final-report`](./final-report)  
+🗂 Background documentation (e.g., check-in slides) is stored in [`/docs`](./docs)
 
 ---
 
