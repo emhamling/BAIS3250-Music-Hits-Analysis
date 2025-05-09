@@ -9,6 +9,15 @@ This folder contains our completed report with visuals and supporting charts.
 - WranglingFinalReport.docx – Final write-up with introduction, methodology, analysis, and findings.
 
 ---
+## Key Findings
+
+- **Top 10 Billboard songs** had higher average valence and danceability than other songs.
+- Spotify **popularity** had a strong negative correlation with `daily_rank` (lower = better).
+- **Random Forest Regression** outperformed linear models with an R² ≈ 0.016 and MSE ≈ 196.
+- **Valence**, **tempo**, and **popularity** were the most important predictive features.
+- Attempted **classification models**, but results were inconsistent and harder to interpret.
+
+---
 
 ## Visualizations
 
